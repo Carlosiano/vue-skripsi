@@ -17,8 +17,7 @@ import {
         - #HERO
       -->
 
-      <section class="section hero has-bg-image" id="home" aria-label="home"
-        :style="{ 'background-image': `url(${heroBg})` }">
+      <section class="section hero has-bg-image" id="beranda" aria-label="beranda">
         <div class="container">
           <div class="hero-content">
             <h1 class="h1 section-title">
